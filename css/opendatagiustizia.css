@@ -7,3 +7,7 @@ div.header-content-inner {
     background:rgba(240, 95, 64, 0.6);
     padding:35px
 }
+
+#logos img {
+  max-height:65px;
+}
