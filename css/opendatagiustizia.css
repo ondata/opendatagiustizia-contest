@@ -5,9 +5,17 @@
 
 div.header-content-inner {
     background:rgba(240, 95, 64, 0.6);
-    padding:35px
+}
+
+h1#homeHeading {
+  padding:35px;
 }
 
 #logos img {
   max-height:115px;
+}
+
+
+header .header-content .header-content-inner h1 {
+  font-size: 2rem;
 }
