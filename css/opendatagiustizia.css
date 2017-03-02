@@ -11,3 +11,18 @@ div.header-content-inner {
 #logos img {
   max-height:65px;
 }
+
+.bg-secondary {
+	background-color: #337ab7;
+	}
+
+li {
+list-style: none;
+font-weight: bold;
+}
+
+.img-responsive {
+display:block;
+max-width:100%;
+height:auto;
+}
